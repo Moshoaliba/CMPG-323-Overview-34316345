@@ -13,7 +13,8 @@ The repository is about Reporting and Monitoring
 
 # Difference between project and repository
 Simply said, a "directory" where files and folders can exist is what a repository is. This "directory" can be copied by other people, who can then alter it as they see fit and ask for their changes to be incorporated into the main repository. A project however, contains issues and pull requests, keeping track of the work that needs to be done. Simply put, i can link my projects with many repositories in github.
-![GitHub-Repository-vs-Project](https://user-images.githubusercontent.com/90796051/185361094-60ea8ce3-0d03-4d48-b8d4-41335711a10b.jpg)
+![3-git-workflow](https://user-images.githubusercontent.com/90796051/185407243-6c01ee36-dda1-42a2-8af4-2c200116a3c3.png)
+
 
 
 # Branching strategy
