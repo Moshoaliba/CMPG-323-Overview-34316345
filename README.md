@@ -13,13 +13,11 @@ The repository is about Reporting and Monitoring
 
 # Difference between project and repository
 Simply said, a "directory" where files and folders can exist is what a repository is. This "directory" can be copied by other people, who can then alter it as they see fit and ask for their changes to be incorporated into the main repository. A project however, contains issues and pull requests, keeping track of the work that needs to be done. Simply put, i can link my projects with many repositories in github.
-![3-git-workflow](https://user-images.githubusercontent.com/90796051/185407243-6c01ee36-dda1-42a2-8af4-2c200116a3c3.png)
-
-
 
 # Branching strategy
 The main branches that i am going to use for all projects, is the produciton and development branch. I only use a hotfix when theres a bug.
 For all innovative capabilities a feature branch will be used for all projects, where necessary, utilizing the pull requests to merge feature branches into the main branch, maintaining an excellent, current main branch. 
+![3-git-workflow](https://user-images.githubusercontent.com/90796051/185407243-6c01ee36-dda1-42a2-8af4-2c200116a3c3.png)
 
 # .gitignore
 The use of a .gitignore file is for notifying Git if there are any files that i want to ignore before commiting to my main repository
