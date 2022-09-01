@@ -25,3 +25,9 @@ The use of a .gitignore file is for notifying Git if there are any files that i 
 # Storage of credentials and sensitive information
 Git sometimes stores data in caches.
 You can erase sensitive data from the history after you commit it to a Git repository, such as a password. You can use either the open source BFG Repo-Cleaner tool or the git filter-repo tool to completely remove unnecessary files from a repository's history. But in terms of crentials and sensitive information, it is not advisable to store them in github since its purpose is to store code repositories only.
+
+# Provided below are the screenshots for the charts, as stated in class.
+![Capture3](https://user-images.githubusercontent.com/90796051/187912176-2242965d-2a58-4640-a682-d76c0244e513.PNG)
+![Capture2](https://user-images.githubusercontent.com/90796051/187912183-e1f9b3bc-7cb4-4bdf-a858-e6fe62fc4e0a.PNG)
+![Capture1](https://user-images.githubusercontent.com/90796051/187912185-6376b108-c5b0-4491-bd3f-9d0e74cadb24.PNG)
+![Capture4](https://user-images.githubusercontent.com/90796051/187912190-5efb267d-8489-4d56-a286-627523502e60.PNG)
