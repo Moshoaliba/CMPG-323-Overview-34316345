@@ -2,6 +2,7 @@
 
 # Project 1
 The repository is about Agile and Scrum.
+
 ![J37XF9HX4G60M881596406335](https://user-images.githubusercontent.com/90796051/202502005-ad8a9151-b351-4209-a355-f2148e3004f6.gif)
 
 # Project 2
